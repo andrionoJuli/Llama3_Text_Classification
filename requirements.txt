@@ -1,0 +1,8 @@
+fastapi
+langchain==0.2.1
+torch
+torchvision
+uvicorn
+ollama
+deep-translator
+langchain-community
